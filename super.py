@@ -124,7 +124,3 @@ def generate_weekly_report():
     #new_list()
     #changed_list()
     event_history()
-
-generate_monthly_report()
-section_break()
-generate_weekly_report()
