@@ -120,6 +120,7 @@ def generate_monthly_report():
 
 def generate_weekly_report():
     print("Superintendent's Weekly Report\n")
+    populate_data()
     short_list()
     #new_list()
     #changed_list()
