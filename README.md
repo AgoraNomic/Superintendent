@@ -13,10 +13,12 @@ Handles the following events
 - *m* - Monthly Report
 - *r* - Revoke
 - *w* - Weekly Report
--
+
 
 Full Events ( c, e ): `DATE,EVENT,HEAD,NAME,ACRONYM,AGENTS,"POWERS"`
+
 Reports ( m, w ): `DATE,EVENT`
+
 Revoking ( r ): `DATE,EVENT,ACTOR,NAME,ACRONYM`
 
 
