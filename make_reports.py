@@ -13,6 +13,8 @@ for type in ['week', 'month']:
     links.sort()
     links.reverse()
 
+    f.write("Superintendents Report Archive:\n")
+
     f.write("[The next (unofficial) " + type +"ly report](" + next + ") \n")
     f.write("\n")
     if links:
