@@ -20,8 +20,10 @@ for type in ['week', 'month']:
     if links:
         f.write("[The latest " + type +"ly report](" + folder + links.pop(0) + ") \n")
         f.write("\n")
-        f.write("The rest: \n")
-        f.write("\n")
-        for string in links:
-           f.write("[" + string + "](" + folder + string + ") \n")
-           f.write("\n")
+        if links:
+            f.write("The rest: \n")
+            f.write("\n")
+            for string in links:
+               f.write("[" + string + "](" + folder + string + ") \n")
+               f.write("\n")
+    f.write("\n-----------------\n\n")
