@@ -1,19 +1,23 @@
 Superintendent's Weekly Report
 
+[Note, I'm happy to take any formating feedback on this report, as this is the first true weekly agency report with real content]
+
+[Note: Events and Agencies preceded by a ! are potentially invalid pending CFJ]
+
 Short List of agencies:
 
-ACP - Head: CuddleBeam
-BGW - Head: CuddleBeam
-GOD - Head: Quazie
-MKD - Head: Gaelan
-PRN - Head: Publius Scribonius Scholasticus
-QPS - Head: Quazie
-SSP - Head: Publius Scribonius Scholasticus
-WTQ - Head: Quazie
-gFP - Head: grok
-𒌑შए - Head: 天火狐
+  ACP - Head: CuddleBeam
+  BGW - Head: CuddleBeam
+  GOD - Head: Quazie
+  MKD - Head: Gaelan
+  PRN - Head: Publius Scribonius Scholasticus
+  QPS - Head: Quazie
+  SSP - Head: Publius Scribonius Scholasticus
+! WTQ - Head: Quazie
+  gFP - Head: grok
+  𒌑შए - Head: 天火狐
 
-Long List of agencies:
+New Agencies since last weekly report:
 
 Alien Contact Program  (ACP)
 Head: CuddleBeam
@@ -65,13 +69,13 @@ Powers:  If Publius Scribonius Scholasticus is not a player, any
   person may register em as a player.
 ----
 
-Quazie will Pay the Shinies  (QPS)
-Head: Quazie
-Agents:  All Players
-Powers:  If Quazie makes a pledge in which e pledges 1 Shiny in return
-  for an action or statement, the first player to fulfil the
-  action/statement in the pledge can transfer a Shiny from Quazie to
-  emself.
+! Quazie will Pay the Shinies  (QPS)
+  Head: Quazie
+  Agents:  All Players
+  Powers:  If Quazie makes a pledge in which e pledges 1 Shiny in return
+    for an action or statement, the first player to fulfil the
+    action/statement in the pledge can transfer a Shiny from Quazie to
+    emself.
 ----
 
 Scribonius Scholasticus and the Pledges  (SSP)
@@ -123,25 +127,20 @@ Powers:  Any person may refer to this Agency by another name, provided
 
 A History of agency related events:
 
-2017-05-25 - Superintendent's Weekly Report Published
-2017-05-24 - grok establishes gFP
-2017-05-23 - 天火狐 establishes 𒌑შए
-2017-05-23 - Publius Scribonius Scholasticus establishes PRN
-2017-05-22 - Quazie establishes WTQ
-2017-05-22 - CuddleBeam establishes ACP
-2017-05-22 - CuddleBeam establishes BGW
-2017-05-21 - Quazie changes GOD
-2017-05-20 - Quazie establishes QPS
-2017-05-20 - Publius Scribonius Scholasticus establishes SSP
-2017-05-20 - Gaelan establishes MKD
-2017-05-20 - Quazie establishes GOD
-2017-05-18 - Superintendent's Monthly Report Published
-2017-05-18 - Superintendent's Weekly Report Published
-2017-04-23 - Aris revokes PDA
-2017-04-16 - Superintendent's Monthly Report Published
-2017-02-13 - Aris establishes PDA
-
-
-[Note: Events and Agencies preceded by a ! are potentially invalid pending CFJ]
-
-[Archive available at https://agoranomic.github.io/Superintendent/]
+  2017-05-25 - Superintendent's Weekly Report Published
+  2017-05-24 - grok establishes gFP
+  2017-05-23 - 天火狐 establishes 𒌑შए
+  2017-05-23 - Publius Scribonius Scholasticus establishes PRN
+! 2017-05-22 - Quazie establishes WTQ
+  2017-05-22 - CuddleBeam establishes ACP
+  2017-05-22 - CuddleBeam establishes BGW
+  2017-05-21 - Quazie changes GOD
+  2017-05-20 - Quazie establishes QPS
+  2017-05-20 - Publius Scribonius Scholasticus establishes SSP
+  2017-05-20 - Gaelan establishes MKD
+  2017-05-20 - Quazie establishes GOD
+  2017-05-18 - Superintendent's Monthly Report Published
+  2017-05-18 - Superintendent's Weekly Report Published
+  2017-04-23 - Aris revokes PDA
+  2017-04-16 - Superintendent's Monthly Report Published
+  2017-02-13 - Aris establishes PDA

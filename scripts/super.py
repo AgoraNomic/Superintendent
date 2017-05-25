@@ -116,16 +116,22 @@ def event_history():
 def section_break():
     print(break_line)
 
+def footer():
+    print("\n\n[Note: Events and Agencies preceded by a ! are potentially invalid pending CFJ]\n\n[Archive available at https://agoranomic.github.io/Superintendent/]")
+
 def generate_monthly_report():
     print("Superintendent's Monthly Report\n")
     populate_data()
     long_list()
     event_history()
+    footer()
 
 def generate_weekly_report():
     print("Superintendent's Weekly Report\n")
     populate_data()
     short_list()
+    long_list()
     #new_list()
     #changed_list()
     event_history()
+    footer()
