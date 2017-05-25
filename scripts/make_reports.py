@@ -2,11 +2,11 @@ import os
 
 f = open('index.md', 'w')
 
-f.write("# Superintendents Report Archive:\n\n\n")
+f.write("# Superintendents Report Archive\n\n\n")
 f.write("\n-----------------\n\n")
 
-for type in ['week', 'month']:
-    folder = 'reports/' + type + "/"
+for report_type in ['Week', 'Month']:
+    folder = 'reports/' + report_type.lower() + "/"
 
     next = folder + 'next.txt'
 
@@ -15,11 +15,11 @@ for type in ['week', 'month']:
     links.remove('next.txt')
     links.sort()
     links.reverse()
-    f.write("## " + type + "ly info:\n")
-    f.write("[The next (unofficial) " + type +"ly report](" + next + ") \n")
+    f.write("## " + report_type + "ly info:\n")
+    f.write("[The next (unofficial) " + report_type.lower() +"ly report](" + next + ") \n")
     f.write("\n")
     if links:
-        f.write("[The latest " + type +"ly report](" + folder + links.pop(0) + ") \n")
+        f.write("[The latest " + report_type.lower() +"ly report](" + folder + links.pop(0) + ") \n")
         f.write("\n")
         if links:
             f.write("The rest: \n")
