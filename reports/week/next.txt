@@ -10,10 +10,12 @@ PRN - Head: Publius Scribonius Scholasticus
 QPS - Head: Quazie
 SSP - Head: Publius Scribonius Scholasticus
 WTQ - Head: Quazie
+gFP - Head: grok
 𒌑შए - Head: 天火狐
 
 A History of agency related events:
 
+2017-05-24 - grok establishes gFP
 2017-05-23 - 天火狐 establishes 𒌑შए
 2017-05-23 - Publius Scribonius Scholasticus establishes PRN
 2017-05-22 - Quazie establishes WTQ

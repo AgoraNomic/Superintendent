@@ -77,6 +77,29 @@ Powers:  If a player issues Quazie a Trust Token from emself, then
   they may issue emself a Trust Token from Quazie
 ----
 
+grok's Favorite Player  (gFP)
+Head: grok
+Agents:  All players
+Powers:  1) gFP has a single Name switch. gFP's Name switch can only
+  be flipped by the Director of gFP. The legal values for the Name
+  switch are the name of any single registered Player as defined by
+  Rule 869. If the text of a player's name includes the words
+  "deregister," "de-register," "announce," "intend," or any
+  conjugation of or direct variation on those words, it is not a legal
+  value.
+
+2) Once per Agoran week, if an agent either writes a Kind Message
+  about grok in any public forum or gives grok 3 shinies, that agent
+  may act on behalf of grok to flip gFP's Name switch to any legal
+  position.
+
+3) If a player that has never given grok a Trust Token gives grok a
+  Trust Token, that player may act on behalf of grok to flip gFP's
+  Name switch to any legal position once.
+
+4) grok is the Director and Head of gFP.
+----
+
 𒌑𒉌𒋻 შეესაბამება एजेन्सी  (𒌑შए)
 Head: 天火狐
 Agents:  All persons
@@ -87,6 +110,7 @@ Powers:  Any person may refer to this Agency by another name, provided
 
 A History of agency related events:
 
+2017-05-24 - grok establishes gFP
 2017-05-23 - 天火狐 establishes 𒌑შए
 2017-05-23 - Publius Scribonius Scholasticus establishes PRN
 2017-05-22 - Quazie establishes WTQ

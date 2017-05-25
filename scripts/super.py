@@ -1,5 +1,9 @@
 import csv
+import os
 from textwrap import TextWrapper
+
+__location__ = os.path.realpath(
+    os.path.join(os.getcwd(), os.path.dirname(__file__)))
 
 break_line = "\n----------\n"
 
@@ -43,7 +47,7 @@ def get_event_data(row):
 a_by_acro = {}
 event_log = []
 def populate_data():
-    with open('events.csv') as csvfile:
+    with open(os.path.join(__location__, 'events.csv')) as csvfile:
          event_reader = csv.reader(csvfile, escapechar='\\')
          for row in event_reader:
             data = get_event_data(row)
