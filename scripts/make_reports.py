@@ -2,8 +2,7 @@ import os
 
 f = open('index.md', 'w')
 
-f.write("#Superintendents Report Archive:\n\n\n")
-f.write("\n-----------------\n\n")
+f.write("# Superintendents Report Archive:\n\n\n")
 f.write("\n-----------------\n\n")
 
 for type in ['week', 'month']:
@@ -16,7 +15,7 @@ for type in ['week', 'month']:
     links.remove('next.txt')
     links.sort()
     links.reverse()
-    f.write("##" + type + "ly info:\n")
+    f.write("## " + type + "ly info:\n")
     f.write("[The next (unofficial) " + type +"ly report](" + next + ") \n")
     f.write("\n")
     if links:
