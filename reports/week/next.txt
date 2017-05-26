@@ -13,113 +13,9 @@ WTQ - Head: Quazie
 gFP - Head: grok
 𒌑შए - Head: 天火狐
 
-Long List of agencies:
+New or changed agencies since last weekly:
 
-Alien Contact Program  (ACP)
-Head: CuddleBeam
-Agents:  All persons which are native to a planet which isn't
-  Earth.(Individuals of this set are also known as "Aliens" for the
-  purpose of this document)
-Powers:  At any moment, an Alien may post a message on Cuddlebeam's
-  behalf with the content of "Hello, I am an alien and I am making
-  contact" along any additional information such an Alien considers
-  interesting about themselves.
-----
-
-Big Grafitti Wall  (BGW)
-Head: CuddleBeam
-Agents:  All Players
-Powers:  Any Agent may add additional characters to the text content
-  of the Powers of this agency as long as such changes keep these
-  Powers functionally synonymous to the Powers that this agency had at
-  its creation.
-
-Cuddlebeam was here.
-----
-
-G. is Overlord of Dunce  (GOD)
-Head: Quazie
-Agents:  G.
-Powers:   1 - The ability to give notice to establish Agencies with
-  Quazie as the Director or Head and G. as the only agent
-  2 - The ability to establish Agencies with Quazie as the Director or
-  Head and G. as the only agent
-----
-
-My Kangaroo Driver  (MKD)
-Head: Gaelan
-Agents:  All players currently registered
-Powers:  Any agent who has submitted a proposal that was accepted
-  within the past 24 hours which is formatted such that it renders
-  properly as Markdown (and contains elements of formatting other than
-  simple paragraphs) may cause Gaelan to give them 2 shinies, if
-  Gaelan has more than 2 shinies.
-
-Any agent may make another player an agent (with 24 hours’ notice).
-----
-
-Publius Registers for Nomic  (PRN)
-Head: Publius Scribonius Scholasticus
-Agents:  All Persons
-Powers:  If Publius Scribonius Scholasticus is not a player, any
-  person may register em as a player.
-----
-
-Quazie will Pay the Shinies  (QPS)
-Head: Quazie
-Agents:  All Players
-Powers:  If Quazie makes a pledge in which e pledges 1 Shiny in return
-  for an action or statement, the first player to fulfil the
-  action/statement in the pledge can transfer a Shiny from Quazie to
-  emself.
-----
-
-Scribonius Scholasticus and the Pledges  (SSP)
-Head: Publius Scribonius Scholasticus
-Agents:  All Players
-Powers:  If Publius Scribonius Scholasticus makes a pledge in which e
-  pledges X Shinies in return for an action or statement, the first
-  player to fulfill the action/statement in the pledge can transfer X
-  Shinies from Publius Scribonius Scholasticus to emself.
-----
-
-Who Trusts Quazie  (WTQ)
-Head: Quazie
-Agents:  All Players
-Powers:  If a player issues Quazie a Trust Token from emself, then
-  they may issue emself a Trust Token from Quazie
-----
-
-grok's Favorite Player  (gFP)
-Head: grok
-Agents:  All players
-Powers:  1) gFP has a single Name switch. gFP's Name switch can only
-  be flipped by the Director of gFP. The legal values for the Name
-  switch are the name of any single registered Player as defined by
-  Rule 869. If the text of a player's name includes the words
-  "deregister," "de-register," "announce," "intend," or any
-  conjugation of or direct variation on those words, it is not a legal
-  value.
-
-2) Once per Agoran week, if an agent either writes a Kind Message
-  about grok in any public forum or gives grok 3 shinies, that agent
-  may act on behalf of grok to flip gFP's Name switch to any legal
-  position.
-
-3) If a player that has never given grok a Trust Token gives grok a
-  Trust Token, that player may act on behalf of grok to flip gFP's
-  Name switch to any legal position once.
-
-4) grok is the Director and Head of gFP.
-----
-
-𒌑𒉌𒋻 შეესაბამება एजेन्सी  (𒌑შए)
-Head: 天火狐
-Agents:  All persons
-Powers:  Any person may refer to this Agency by another name, provided
-  that it is unambiguous. Given that the transliteration of the name,
-  UShE is recommended.
-----
+  There are none.
 
 A History of agency related events:
 
@@ -140,7 +36,6 @@ A History of agency related events:
 2017-04-23 - Aris revokes PDA
 2017-04-16 - Superintendent's Monthly Report Published
 2017-02-13 - Aris establishes PDA
-
 
 [Note: Events and Agencies preceded by a ! are potentially invalid pending CFJ]
 

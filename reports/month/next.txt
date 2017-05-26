@@ -110,6 +110,7 @@ Powers:  Any person may refer to this Agency by another name, provided
 
 A History of agency related events:
 
+2017-05-25 - Superintendent's Weekly Report Published
 2017-05-24 - grok establishes gFP
 2017-05-23 - 天火狐 establishes 𒌑შए
 2017-05-23 - Publius Scribonius Scholasticus establishes PRN
@@ -126,3 +127,7 @@ A History of agency related events:
 2017-04-23 - Aris revokes PDA
 2017-04-16 - Superintendent's Monthly Report Published
 2017-02-13 - Aris establishes PDA
+
+[Note: Events and Agencies preceded by a ! are potentially invalid pending CFJ]
+
+[Archive available at https://agoranomic.github.io/Superintendent/]

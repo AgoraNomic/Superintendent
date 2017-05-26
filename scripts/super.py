@@ -46,6 +46,7 @@ def get_event_data(row):
 
 a_by_acro = {}
 event_log = []
+a_for_week = {}
 def populate_data():
     with open(os.path.join(__location__, 'events.csv')) as csvfile:
          event_reader = csv.reader(csvfile, escapechar='\\')
@@ -54,27 +55,40 @@ def populate_data():
             event_type = data['event'].lower()[0]
 
             if event_type == 'e':
-                if data['acronym'] in a_by_acro:
+                a_id = data['acronym']
+
+                if a_id in a_by_acro:
                     print("Illegal Agency Creation: " + str(data))
                 else:
-                    a_by_acro[data['acronym']] = make_agency(data['title'],
+                    a_by_acro[a_id] = make_agency(data['title'],
                                                             data['agents'],
                                                             data['powers'],
                                                             data['head'],
-                                                            data['acronym'])
+                                                            a_id)
+                    a_for_week[a_id] = a_by_acro[a_id]
             elif event_type == 'r':
-                if data['acronym'] not in a_by_acro:
+                a_id = data['acronym']
+                if a_id not in a_by_acro:
                     print("Illegal Agency Revocation " + str(data))
                 else:
-                    a_by_acro.pop(data['acronym'])
+                    a_by_acro.pop(a_id)
+
+                if a_id in a_for_week:
+                    a_for_week.pop(a_id)
 
             elif event_type == 'c':
-                if data['acronym'] not in a_by_acro:
+                a_id = data['acronym']
+                if a_id not in a_by_acro:
                     print("Illegal Agency Change " + str(data))
                 else:
                     for prop in ['title', 'powers', 'agents']:
                         if data[prop]:
-                            a_by_acro[data['acronym']][prop] = data[prop]
+                            a_by_acro[a_id][prop] = data[prop]
+
+                    a_for_week[a_id] = a_by_acro[a_id]
+
+            elif event_type == 'w':
+                a_for_week.clear()
 
 
 
@@ -88,24 +102,36 @@ def short_list():
         print("{0} - Head: {1}".format(value['acronym'], value['head']))
     print
 
-def long_list():
+def month_list():
     # Monthly Report Info
+    print("Long List of agencies:")
+    long_list(a_by_acro)
+
+def changes_list():
+    print("New or changed agencies since last weekly:")
+    long_list(a_for_week)
+
+def long_list(a_dict):
     powers_wrapper = TextWrapper(initial_indent="",
                           subsequent_indent="  ")
-    print("Long List of agencies:")
-    for key,value in sorted(a_by_acro.items()):
-        print("\n{0}  ({1})\nHead: {2}".format(value['title'],
-                                                     value['acronym'],
-                                                     value['head']))
 
-        for line in str.splitlines("Agents:  " + value['agents']):
-            print(powers_wrapper.fill(line))
+    if a_dict:
+        for key,value in sorted(a_dict.items()):
+            print("\n{0}  ({1})\nHead: {2}".format(value['title'],
+                                                         value['acronym'],
+                                                         value['head']))
 
-        for line in str.splitlines("Powers:  " + value['powers']):
-            print(powers_wrapper.fill(line))
-        print("----")
+            for line in str.splitlines("Agents:  " + value['agents']):
+                print(powers_wrapper.fill(line))
 
+            for line in str.splitlines("Powers:  " + value['powers']):
+                print(powers_wrapper.fill(line))
+            print("----")
+
+    else:
+        print("\n  There are none.")
     print
+
 
 def event_history():
     print("A History of agency related events:\n")
@@ -117,12 +143,12 @@ def section_break():
     print(break_line)
 
 def footer():
-    print("\n\n[Note: Events and Agencies preceded by a ! are potentially invalid pending CFJ]\n\n[Archive available at https://agoranomic.github.io/Superintendent/]")
+    print("\n[Note: Events and Agencies preceded by a ! are potentially invalid pending CFJ]\n\n[Archive available at https://agoranomic.github.io/Superintendent/]")
 
 def generate_monthly_report():
     print("Superintendent's Monthly Report\n")
     populate_data()
-    long_list()
+    month_list()
     event_history()
     footer()
 
@@ -130,8 +156,6 @@ def generate_weekly_report():
     print("Superintendent's Weekly Report\n")
     populate_data()
     short_list()
-    long_list()
-    #new_list()
-    #changed_list()
+    changes_list()
     event_history()
     footer()
