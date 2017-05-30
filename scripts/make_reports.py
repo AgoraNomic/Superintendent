@@ -2,7 +2,8 @@ import os
 
 f = open('index.md', 'w')
 
-f.write("# Superintendents Report Archive\n\n\n")
+f.write("# Superintendents Report Archive\n")
+f.write('### Current Office Holder: Quazie\n\n')
 f.write("\n-----------------\n\n")
 
 for report_type in ['Week', 'Month']:
