@@ -1,0 +1,344 @@
+Superintendent's Weekly Report
+
+Short List of agencies:
+
+  ASC - Head: Publius Scribonius Scholasticus
+  C♥️N - Head: CuddleBeam
+  C♥️U - Head: CuddleBeam
+  GOD - Head: Quazie
+  MKD - Head: Gaelan
+  PRN - Head: Publius Scribonius Scholasticus
+! QPS - Head: Quazie
+  SSP - Head: Publius Scribonius Scholasticus
+  WTQ - Head: Quazie
+  gFP - Head: grok
+  𒌑შए - Head: 天火狐
+
+New or changed agencies since last weekly:
+
+Agoran SubNomic Corporation  (ASC)
+Head: Publius Scribonius Scholasticus
+Agents:  All persons
+Powers:  Participation is a type of negative boolean person switch,
+  like that defined in Rule 2162/8. There exists an instance of the
+  Participation switch for each combination of a person and a subnomic
+  (defined below). The internal state of the Agoran SubNomic
+  Corporation consists of any documents or switches defined in this
+  field or in documents defined therein. No amendment to this document
+  shall change the internal state of the Agoran SubNomic Corporation
+  beyond the explicit textual changes, unless explicitly stated
+  otherwise.
+
+Any person with a Participation switch of true between emselves and a
+  specific subnomic, may, if allowed by the ruleset (see below) of
+  that subnomic, publish a report covering some subset of the internal
+  state of the subnomic with which eir participation switch is true,
+  on behalf of Publius Scribonius Scholasticus.
+
+A subnomic is an entity having a unique name, a ruleset, an internal
+  state, and a playership. The internal state of a subnomic consists
+  of any documents or switches defined in the ruleset of that subnomic
+  or in documents defined therein. The playership of a subnomic is a
+  set of all people for whom the participation switch between em and
+  the specific subnomic is true. All members of the playership shall
+  be bound by the ruleset. The ruleset of a subnomic is a document
+  which governs play of the subnomic.
+
+A subnomic may be created by any person by announcement by publishing
+  a ruleset to begin the playing of the subnomic with, declaring a
+  unique name for the subnomic, and flipping the participation switch
+  between em and the new subnomic to true. Persons may never flip a
+  participation switch that is not eir own.
+
+A subnomic may be destroyed by Publius Scribonius Scholasticus without
+  objection.
+
+If allowed by the ruleset of a specific subnomic, any person may flip
+  the participation switch between em and the specific subnomic.
+  Persons SHALL NOT flip eir participation switches to true unless
+  allowed by the rulesets of the specific subnomics. At any time, a
+  person may flip eir participation switch with a certain subnomic to
+  false.
+----
+
+Cuddlebeam ♥️ Novelty  (C♥️N)
+Head: CuddleBeam
+Agents:  All persons
+Powers:  📌 Note: This Agency contains a Collection of pseudo-
+  Agencies ("SubAgencies") which have been designed for novelty and
+  nomic experimentation/research purposes. For Cuddlebeam's Agency-
+  powered utility and productivity functions, please refer to the
+  "Cuddlebeam ♥️ Utility" (C♥️U) Agency.
+
+⭐Table of Contents & Short Summary:
+  1) Functionality Rules: How this works.
+  2) Cuddlebeam's Computer Emulation: Emulates a computer interface in
+  Agora's formal space.
+  3) Big Grafitti Wall: Area that any Player can edit with frivolous
+  content. Self-referential Power.
+  4) Alien Contact Program: Works like a SETI dish. Except its a
+  formal item instead of a dish.
+  5) Everyone is Playing Nomic: Similar to BGW, except enhanced to be
+  a nomic.
+
+⭐Functionality Rules: How this works.
+
+For the purpose of this document, there exists "SubAgencies", as
+  described within this Powers section, which is made up of a SubName,
+  SubAgents and SubPowers section which can be filled with text
+  content. Only Agents which are part of the subset which SubAgency's
+  SubAgents section refers to can employ the abilities described in
+  the Powers section of that SubAgency.
+
+SubAgencies, for the purpose of this document, are known to be "sub-
+  documents".
+
+The string "-----♦️-----" in this document are readability
+  separators and are known as a ReadFriend.
+
+The following between ReadFriends is a SubAgency:
+
+📌Note: I want to get Doom, the videogame, running on this later. I
+  still gotta get to that if I ever do.
+-----♦️-----
+
+• SubName: Cuddlebeam's Computer Emulation
+• SubAgents: All Players
+• SubPowers:  For the purpose of this sub-document, there exists the
+  following entities:
+- The Screen
+- Pixels
+- The Keyboard
+- Keys
+- The Clock
+- The Cartridge
+- The Supplements
+
+A cell in a grid can be a Pixel. Pixels have a color value, which can
+  be any color and defaults to pure black.
+
+The Screen is a 320 x 200 Cartesian grid of Pixels.
+
+The Keyboard is formed by an amount of Keys. Keys have a name (which
+  is also their symbol). These Keys (stated by their names) are: a, b,
+  c, d , e, f, g, h, i, j, k, l, m, n, o, p, q, r, s, t, u, v, w, x,
+  y, z, ⬇️, ➡️, ⬅️, ⬆️ and RESET.
+
+For the purpose of this sub-document, "Pressing [X] Key", where [X] is
+  the name of a certain key, exists.
+
+The Keyboard has one of each of those Keys.
+
+The Clock is a variable that can hold an integer value. This defaults
+  to 0.
+
+The Cartridge is a one-item list of entities, and these entities can
+  be the name of an Agency, a SubAgency, or none.
+
+The following is the Cartridge: none
+
+The text content between this sentence and the next one which contains
+  "Cartridge content ends here" is to be considered to be read as the
+  Powers text content of the Agency the Cartridge is naming, if there
+  is any.
+
+HELLO MY FRIENDS.
+
+"Cartridge content ends here".
+
+The Supplements are a list of entities, and these entities can be the
+  name of an Agency, or none.
+
+The following is the Supplements: none
+
+The text content between this sentence and the next one which contains
+  "Supplement content ends here" is to be considered to be read as the
+  Powers text content of the Agencies and/or SubAgencies the
+  Supplements are naming, stated in the order that they appear above,
+  if there are any.
+
+HELLO MY FRIENDS.
+
+"Supplement content ends here".
+
+-----♦️-----
+
+The following between ReadFriends is a SubAgency:
+
+-----♦️-----
+
+• SubName: Big Grafitti Wall (BGW)
+• SubAgents: All Players
+• SubPowers: Any SubAgent of this SubAgency may add additional
+  characters to the text content of the SubPowers of this agency as
+  long as such changes are entirely frivolous. SubAgents may also make
+  a 24h Notice of this intent. Any SubAgent may announce that they
+  will perform modifications to this SubPowers section.
+Cuddlebeam was here.
+
+grok (kinda) was here so I'm writing em in here anyways.
+
+i spent time of my short human life doing this
+
+hi mom
+
+
+-----♦️-----
+
+The following between ReadFriends is a SubAgency:
+
+📌Note: Agency that uses its Agents area as validation for who the
+  user is, in this case, Aliens.
+-----♦️-----
+
+SubName: Alien Contact Program (ACP)
+
+SubAgents: All persons which are native to a planet which isn't
+  Earth.(Individuals of this set are also known as "Aliens" for the
+  purpose of this sub-document)
+
+SubPowers: At any moment, an Alien may post a message on Cuddlebeam's
+  behalf with the content of "Hello, I am an alien and I am making
+  contact" along any additional information such an Alien considers
+  interesting about themselves.
+
+-----♦️-----
+
+The following between ReadFriends is a SubAgency:
+
+📌Note: Reminder to self to finish making a variant on this into a
+  fractal nomic with infinite sub-nomics within it.
+-----♦️-----
+
+• SubName: Everyone is Playing Nomic (EPN)
+• SubAgents: All persons
+• SubPowers: The content in this SubPowers section below the BIG
+  LINE can be modified at will by any SubAgent by announcing this
+  intent, as long as they comply to the rules written below the BIG
+  LINE. SubAgents may also make a 24h Notice of this intent. All
+  content below the BIG LINE have no formal powers aside from
+  restricting what SubAgents may edit into it.
+
+The next 54 characters that appear after the colon in this sentence is
+the BIG LINE:
+
+
+----------HELLO MY FRIENDS I AM THE BIG LINE----------
+
+
+Nobody can make modifications to this sub-document which would prevent
+  any
+subset of all possible modifications to be able to be made nor remove
+this sentence.
+
+Peter Suber is a Very Cool Guy.
+
+-----♦️-----
+----
+
+Cuddlebeam ♥️ Utility  (C♥️U)
+Head: CuddleBeam
+Agents:  All persons
+Powers:  📌 Note: This Agency contains a Collection of pseudo-
+  Agencies ("SubAgencies") which have been designed for utility and
+  productivity functions. For Cuddlebeam's utility and novelty
+  Agencies (SubAgencies), please refer to the "Cuddlebeam ♥️
+  Novelty" (C♥️N) Agency.
+
+⭐Table of Contents & Short Summary:
+  1) Functionality Rules: How this works.
+  2) Cuddlebeam will Pay the Shinies: Based on Qwazie's idea. "Semi-
+  auto" payment Pledges.
+  3) Humble CFJ Shoppe: Sale of CFJs. Buy one.
+  4) Cuddlebeam's Lich Phylactery: "Semi-auto" immortality from
+  deregistration from idling.
+
+⭐Functionality Rules: How this works.
+
+For the purpose of this document, there exists "SubAgencies", as
+  described within this Powers section, which is made up of a SubName,
+  SubAgents and SubPowers section which can be filled with text
+  content. Only Agents which are part of the subset which SubAgency's
+  SubAgents section refers to can employ the abilities described in
+  the Powers section of that SubAgency.
+
+SubAgencies, for the purpose of this document, are known to be "sub-
+  documents".
+
+The string "-----♦️-----" in this document are readability
+  separators and are known as a ReadFriend.
+
+The following between ReadFriends is a SubAgency:
+
+-----♦️-----
+
+• SubName: Cuddlebeam will Pay the Shinies (CPS)
+• SubAgents: All Players
+• SubPowers: If Cuddlebeam makes a pledge in which e pledges X
+  Shinies in return for an action or statement, the first player to
+  fulfill the action/statement in the pledge can transfer X Shinies
+  from Cuddlebeam to emself.
+
+-----♦️-----
+
+The following between ReadFriends is a SubAgency:
+
+-----♦️-----
+
+SubName: Humble CFJ Shoppe (HCS)
+SubAgents: Any player who assumes full responsibility for all
+  consequences stemmed from their use of the Powers of this SubAgency
+  and any consequences Cuddlebeam may incur as well due to this use.
+SubPowers: SubAgents may submit a CFJ on Cuddlebeam's behalf if they
+  fulfill the following conditions:
+* They pay Cuddlebeam at least 3 shiny in the same message as the CFJ
+  they're summoning via these Powers.
+
+-----♦️-----
+
+The following between ReadFriends is a SubAgency:
+
+-----♦️-----
+
+SubName: Cuddlebeam's Lich Phylactery (CLP)
+SubAgents: Any person
+SubPowers: SubAgents may post a message on Cuddlebeam's behalf with
+  the sole content of "Liches can't die" at any time, provided that
+  such a message has no relevancy nor effect to the game aside from
+  being able to prevent Cuddlebeam from being deregistered by virtue
+  of the content of Rule 869/39 which states the following:
+
+"If a player has not sent a message to a public forum in the last
+  month, then any player CAN deregister em without objection."
+
+-----♦️-----
+----
+
+A History of agency related events:
+
+  2017-06-04 - Publius Scribonius Scholasticus establishes ASC
+  2017-05-27 - CuddleBeam establishes C♥️U
+  2017-05-27 - CuddleBeam establishes C♥️N
+  2017-05-27 - CuddleBeam revokes BGW
+  2017-05-27 - CuddleBeam revokes ACP
+  2017-05-25 - Superintendent's Weekly Report Published
+  2017-05-24 - grok establishes gFP
+  2017-05-23 - 天火狐 establishes 𒌑შए
+  2017-05-23 - Publius Scribonius Scholasticus establishes PRN
+  2017-05-22 - Quazie establishes WTQ
+  2017-05-22 - CuddleBeam establishes ACP
+  2017-05-22 - CuddleBeam establishes BGW
+  2017-05-21 - Quazie changes GOD
+! 2017-05-20 - Quazie establishes QPS
+  2017-05-20 - Publius Scribonius Scholasticus establishes SSP
+  2017-05-20 - Gaelan establishes MKD
+  2017-05-20 - Quazie establishes GOD
+  2017-05-18 - Superintendent's Monthly Report Published
+  2017-05-18 - Superintendent's Weekly Report Published
+  2017-04-23 - Aris revokes PDA
+  2017-04-16 - Superintendent's Monthly Report Published
+  2017-02-13 - Aris establishes PDA
+
+[Note: Events and Agencies preceded by a ! are potentially invalid pending CFJ]
+
+[Archive available at https://agoranomic.github.io/Superintendent/]

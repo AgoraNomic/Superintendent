@@ -198,3 +198,15 @@ SubPowers: SubAgents may post a message on Cuddlebeam's behalf with the sole con
 \"If a player has not sent a message to a public forum in the last month, then any player CAN deregister em without objection.\"
 
 -----♦️-----"
+2017-06-04,E,Publius Scribonius Scholasticus,Agoran SubNomic Corporation,ASC,All persons,"Participation is a type of negative boolean person switch, like that defined in Rule 2162/8. There exists an instance of the Participation switch for each combination of a person and a subnomic (defined below). The internal state of the Agoran SubNomic Corporation consists of any documents or switches defined in this field or in documents defined therein. No amendment to this document shall change the internal state of the Agoran SubNomic Corporation beyond the explicit textual changes, unless explicitly stated otherwise.
+
+Any person with a Participation switch of true between emselves and a specific subnomic, may, if allowed by the ruleset (see below) of that subnomic, publish a report covering some subset of the internal state of the subnomic with which eir participation switch is true, on behalf of Publius Scribonius Scholasticus.
+
+A subnomic is an entity having a unique name, a ruleset, an internal state, and a playership. The internal state of a subnomic consists of any documents or switches defined in the ruleset of that subnomic or in documents defined therein. The playership of a subnomic is a set of all people for whom the participation switch between em and the specific subnomic is true. All members of the playership shall be bound by the ruleset. The ruleset of a subnomic is a document which governs play of the subnomic.
+
+A subnomic may be created by any person by announcement by publishing a ruleset to begin the playing of the subnomic with, declaring a unique name for the subnomic, and flipping the participation switch between em and the new subnomic to true. Persons may never flip a participation switch that is not eir own.
+
+A subnomic may be destroyed by Publius Scribonius Scholasticus without objection.
+
+If allowed by the ruleset of a specific subnomic, any person may flip the participation switch between em and the specific subnomic. Persons SHALL NOT flip eir participation switches to true unless allowed by the rulesets of the specific subnomics. At any time, a person may flip eir participation switch with a certain subnomic to false."
+2017-06-05,W
