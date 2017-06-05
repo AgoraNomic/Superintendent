@@ -7,9 +7,11 @@
 ## Weekly info:
 [The next (unofficial) weekly report](reports/week/next.txt) 
 
-[The latest weekly report](reports/week/2017-05-25.txt) 
+[The latest weekly report](reports/week/2017-06-05.txt) 
 
 The rest: 
+
+[2017-05-25.txt](reports/week/2017-05-25.txt) 
 
 [2017-05-18.txt](reports/week/2017-05-18.txt) 
 
