@@ -2,6 +2,59 @@ Superintendent's Monthly Report
 
 Long List of agencies:
 
+Agoran SubNomic Corporation  (ASC)
+Head: Publius Scribonius Scholasticus
+Agents:  All persons
+Powers:  Participation is a type of negative boolean person switch,
+  like that defined in Rule 2162/8. There exists an instance of the
+  Participation switch for each combination of a person and a subnomic
+  (defined below). The internal state of the Agoran SubNomic
+  Corporation consists of any documents or switches defined in this
+  field or in documents defined therein. No amendment to this document
+  shall change the internal state of the Agoran SubNomic Corporation
+  beyond the explicit textual changes, unless explicitly stated
+  otherwise.
+
+Any person with a Participation switch of true between emselves and a
+  specific subnomic, may, if allowed by the ruleset (see below) of
+  that subnomic, publish a report covering some subset of the internal
+  state of the subnomic with which eir participation switch is true,
+  on behalf of Publius Scribonius Scholasticus.
+
+A subnomic is an entity having a unique name, a ruleset, an internal
+  state, and a playership. The internal state of a subnomic consists
+  of any documents or switches defined in the ruleset of that subnomic
+  or in documents defined therein. The playership of a subnomic is a
+  set of all people for whom the participation switch between em and
+  the specific subnomic is true. All members of the playership shall
+  be bound by the ruleset. The ruleset of a subnomic is a document
+  which governs play of the subnomic.
+
+A subnomic may be created by any person by announcement by publishing
+  a ruleset to begin the playing of the subnomic with, declaring a
+  unique name for the subnomic, and flipping the participation switch
+  between em and the new subnomic to true. Persons may never flip a
+  participation switch that is not eir own.
+
+A subnomic may be destroyed by Publius Scribonius Scholasticus without
+  objection.
+
+If allowed by the ruleset of a specific subnomic, any person may flip
+  the participation switch between em and the specific subnomic.
+  Persons SHALL NOT flip eir participation switches to true unless
+  allowed by the rulesets of the specific subnomics. At any time, a
+  person may flip eir participation switch with a certain subnomic to
+  false.
+----
+
+Ben Öyle Öneriyorum  (BÖÖ)
+Head: Quazie
+Agents:  G.
+Powers:  1. The ability to submit proposals.
+2. The ability to pend proposals using mechanisms described by the
+  Rules.
+----
+
 Cuddlebeam ♥️ Novelty  (C♥️N)
 Head: CuddleBeam
 Agents:  All persons
@@ -255,6 +308,15 @@ SubPowers: SubAgents may post a message on Cuddlebeam's behalf with
 -----♦️-----
 ----
 
+Gaelan Is Impatient  (GII)
+Head: Gaelan
+Agents:  All Players
+Powers:  Perform any actions Gaelan has listed as Performable By
+  Agency, subject to any restrictions e has specified in that
+  announcement, if Gaelan has not specified more than 24 hours prior
+  that the action is no longer Performable By Agency.
+----
+
 G. is Overlord of Dunce  (GOD)
 Head: Quazie
 Agents:  G.
@@ -341,6 +403,10 @@ Powers:  Any person may refer to this Agency by another name, provided
 
 A History of agency related events:
 
+2017-06-05 - Superintendent's Weekly Report Published
+2017-06-05 - Quazie establishes BÖÖ
+2017-06-04 - Publius Scribonius Scholasticus establishes ASC
+2017-05-27 - Gaelan establishes GII
 2017-05-27 - CuddleBeam establishes C♥️U
 2017-05-27 - CuddleBeam establishes C♥️N
 2017-05-27 - CuddleBeam revokes BGW

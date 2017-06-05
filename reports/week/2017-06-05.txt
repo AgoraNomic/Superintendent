@@ -3,8 +3,10 @@ Superintendent's Weekly Report
 Short List of agencies:
 
   ASC - Head: Publius Scribonius Scholasticus
+  BÖÖ - Head: Quazie
   C♥️N - Head: CuddleBeam
   C♥️U - Head: CuddleBeam
+  GII - Head: Gaelan
   GOD - Head: Quazie
   MKD - Head: Gaelan
   PRN - Head: Publius Scribonius Scholasticus
@@ -59,6 +61,14 @@ If allowed by the ruleset of a specific subnomic, any person may flip
   allowed by the rulesets of the specific subnomics. At any time, a
   person may flip eir participation switch with a certain subnomic to
   false.
+----
+
+Ben Öyle Öneriyorum  (BÖÖ)
+Head: Quazie
+Agents:  G.
+Powers:  1. The ability to submit proposals.
+2. The ability to pend proposals using mechanisms described by the
+  Rules.
 ----
 
 Cuddlebeam ♥️ Novelty  (C♥️N)
@@ -314,9 +324,20 @@ SubPowers: SubAgents may post a message on Cuddlebeam's behalf with
 -----♦️-----
 ----
 
+Gaelan Is Impatient  (GII)
+Head: Gaelan
+Agents:  All Players
+Powers:  Perform any actions Gaelan has listed as Performable By
+  Agency, subject to any restrictions e has specified in that
+  announcement, if Gaelan has not specified more than 24 hours prior
+  that the action is no longer Performable By Agency.
+----
+
 A History of agency related events:
 
+  2017-06-05 - Quazie establishes BÖÖ
   2017-06-04 - Publius Scribonius Scholasticus establishes ASC
+  2017-05-27 - Gaelan establishes GII
   2017-05-27 - CuddleBeam establishes C♥️U
   2017-05-27 - CuddleBeam establishes C♥️N
   2017-05-27 - CuddleBeam revokes BGW
