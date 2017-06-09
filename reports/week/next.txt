@@ -10,7 +10,6 @@ GII - Head: Gaelan
 GOD - Head: Quazie
 MKD - Head: Gaelan
 PRN - Head: Publius Scribonius Scholasticus
-QPS - Head: Quazie
 SSP - Head: Publius Scribonius Scholasticus
 WTQ - Head: Quazie
 gFP - Head: grok
@@ -38,7 +37,6 @@ A History of agency related events:
 2017-05-22 - CuddleBeam establishes ACP
 2017-05-22 - CuddleBeam establishes BGW
 2017-05-21 - Quazie changes GOD
-2017-05-20 - Quazie establishes QPS
 2017-05-20 - Publius Scribonius Scholasticus establishes SSP
 2017-05-20 - Gaelan establishes MKD
 2017-05-20 - Quazie establishes GOD
