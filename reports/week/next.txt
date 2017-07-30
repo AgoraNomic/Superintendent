@@ -11,14 +11,12 @@ PRN - Head: Publius Scribonius Scholasticus
 SSP - Head: Publius Scribonius Scholasticus
 WTQ - Head: Quazie
 gFP - Head: grok
+gPA - Head: grok
 𒌑შए - Head: 天火狐
-
-New or changed agencies since last weekly:
-
-  There are none.
 
 A History of agency related events:
 
+2017-07-24 - grok establishes gPA
 2017-06-05 - Superintendent's Weekly Report Published
 2017-06-05 - Quazie establishes BÖÖ
 2017-06-04 - Publius Scribonius Scholasticus establishes ASC
