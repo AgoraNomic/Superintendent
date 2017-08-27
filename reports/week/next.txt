@@ -14,9 +14,11 @@ WTQ - Head: Quazie
 gFP - Head: grok
 gPA - Head: grok
 𒌑შए - Head: 天火狐
+狐票店 - Head: 天火狐
 
 A History of agency related events:
 
+2016-08-26 - 天火狐 establishes 狐票店
 2017-08-21 - Quazie establishes QAZ
 2017-07-24 - grok establishes gPA
 2017-06-05 - Superintendent's Weekly Report Published
