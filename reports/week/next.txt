@@ -8,6 +8,7 @@ GII - Head: Gaelan
 GOD - Head: Quazie
 MKD - Head: Gaelan
 PRN - Head: Publius Scribonius Scholasticus
+QAZ - Head: Quazie
 SSP - Head: Publius Scribonius Scholasticus
 WTQ - Head: Quazie
 gFP - Head: grok
@@ -16,6 +17,7 @@ gPA - Head: grok
 
 A History of agency related events:
 
+2017-08-21 - Quazie establishes QAZ
 2017-07-24 - grok establishes gPA
 2017-06-05 - Superintendent's Weekly Report Published
 2017-06-05 - Quazie establishes BÖÖ
